@@ -1,0 +1,72 @@
+[
+  {
+    "codigo": 123,
+    "fecha": "2023-10-21",
+    "estadoCita": "Programada",
+    "medico": 1,
+    "datosUsuario": 1
+  },
+  {
+    "codigo": 153,
+    "fecha": "2023-09-12",
+    "estadoCita": "Programada",
+    "medico": 1,
+    "datosUsuario": 2
+  },
+  {
+    "codigo": 234,
+    "fecha": "2023-11-05",
+    "estadoCita": "Confirmada",
+    "medico": 2,
+    "datosUsuario": 3
+  },
+  {
+    "codigo": 345,
+    "fecha": "2023-11-15",
+    "estadoCita": "En Curso",
+    "medico": 3,
+    "datosUsuario": 4
+  },
+  {
+    "codigo": 456,
+    "fecha": "2023-11-25",
+    "estadoCita": "Atendida",
+    "medico": 4,
+    "datosUsuario": 5
+  },
+  {
+    "codigo": 567,
+    "fecha": "2023-12-03",
+    "estadoCita": "Cancelada",
+    "medico": 5,
+    "datosUsuario": 6
+  },
+  {
+    "codigo": 678,
+    "fecha": "2023-12-10",
+    "estadoCita": "Programada",
+    "medico": 6,
+    "datosUsuario": 7
+  },
+  {
+    "codigo": 789,
+    "fecha": "2023-12-18",
+    "estadoCita": "Confirmada",
+    "medico": 7,
+    "datosUsuario": 8
+  },
+  {
+    "codigo": 890,
+    "fecha": "2023-12-24",
+    "estadoCita": "En Curso",
+    "medico": 8,
+    "datosUsuario": 9
+  },
+  {
+    "codigo": 901,
+    "fecha": "2023-12-30",
+    "estadoCita": "Atendida",
+    "medico": 9,
+    "datosUsuario": 10
+  }
+]

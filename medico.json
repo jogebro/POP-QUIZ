@@ -1,0 +1,69 @@
+[
+    {
+      "nroMatriculaProfesional": 18454683,
+      "nombreCompleto": "Jose Manuel Santos Abril",
+      "consultorio": 1,
+      "especialidad": 1
+    },
+    {
+      "nroMatriculaProfesional": 1857453,
+      "nombreCompleto": "Sara Sofia Gelvez Rodriguez",
+      "consultorio": 1,
+      "especialidad": 1
+    },
+    {
+      "nroMatriculaProfesional": 3947284,
+      "nombreCompleto": "Juan Carlos Pérez López",
+      "consultorio": 2,
+      "especialidad": 2
+    },
+    {
+      "nroMatriculaProfesional": 8374910,
+      "nombreCompleto": "Laura Andrea Martinez Gómez",
+      "consultorio": 3,
+      "especialidad": 3
+    },
+    {
+      "nroMatriculaProfesional": 5628937,
+      "nombreCompleto": "Luis Felipe Ramírez Sánchez",
+      "consultorio": 4,
+      "especialidad": 4
+    },
+    {
+      "nroMatriculaProfesional": 9278465,
+      "nombreCompleto": "Ana María González Herrera",
+      "consultorio": 5,
+      "especialidad": 5
+    },
+    {
+      "nroMatriculaProfesional": 1829301,
+      "nombreCompleto": "María Fernanda Pérez Ruiz",
+      "consultorio": 6,
+      "especialidad": 6
+    },
+    {
+      "nroMatriculaProfesional": 3849201,
+      "nombreCompleto": "Carlos Andrés López García",
+      "consultorio": 7,
+      "especialidad": 7
+    },
+    {
+      "nroMatriculaProfesional": 5837462,
+      "nombreCompleto": "Sofía Valentina Martínez López",
+      "consultorio": 8,
+      "especialidad": 8
+    },
+    {
+      "nroMatriculaProfesional": 7263847,
+      "nombreCompleto": "Diego Antonio Ramírez Torres",
+      "consultorio": 9,
+      "especialidad": 9
+    },
+    {
+      "nroMatriculaProfesional": 9384756,
+      "nombreCompleto": "Carmen Luisa López Sánchez",
+      "consultorio": 10,
+      "especialidad": 10
+    }
+  ]
+  
