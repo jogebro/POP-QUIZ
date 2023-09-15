@@ -1,4 +1,4 @@
-# Enpoints
+# Endpoints
 
 1. Obtener todos los pacientes en orden alfabetico
 * http://localhost:5000/paciente
